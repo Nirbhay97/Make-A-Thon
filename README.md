@@ -18,9 +18,9 @@
 4. ESP 32 DEV
 
 # Team Members:
-1. Nirbhay Kumar
-2. Aditya Patnaik
-3. Arnav
+* <a href = "https://github.com/nirbhay97"> Nirbhay Kumar </a>
+* <a href = "https://github.com/adi27s"> Aditya Patnaik </a>
+* <a href = "https://github.com/arnav-247"> Arnav Jain </a>
 4. Sourav Panda
 5. Ashiwini 
 
