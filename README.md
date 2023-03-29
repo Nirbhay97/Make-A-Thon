@@ -1,4 +1,4 @@
-# Maka-A-Thon
+# Make-A-Thon
 ## Team Error-404
 
 # Problem_statement
