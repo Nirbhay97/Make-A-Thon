@@ -25,4 +25,6 @@
 5. Ashiwini 
 
 # Images 
-![image](https://drive.google.com/file/d/1J5FgULVWPUINhmBiYryc2hNWb_MSJj8B/view?usp=sharing)
+
+![Screenshot from 2023-03-29 05-18-33](https://user-images.githubusercontent.com/83468600/228393473-b9f65781-64e4-46a0-bd3e-39e018edd6c8.png)
+
