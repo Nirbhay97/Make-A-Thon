@@ -21,8 +21,8 @@
 * <a href = "https://github.com/nirbhay97"> Nirbhay Kumar </a>
 * <a href = "https://github.com/adi27s"> Aditya Patnaik </a>
 * <a href = "https://github.com/arnav-247"> Arnav Jain </a>
-4. Sourav Panda
-5. Ashiwini 
+* <a href = "https://github.com/ashwini0921"> Ashwini Kumar </a>
+* <a href = "https://github.com/sourav2204"> Sourav Panda </a>
 
 # Images 
 
